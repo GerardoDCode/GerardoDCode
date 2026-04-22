@@ -4,8 +4,7 @@
 <br/>
 
 <p align="center">
-  Building scalable backend systems and clean frontend interfaces.<br/>
-  Focused on software architecture, DDD, and developer tooling powered by AI.
+  Building scalable backend systems and clean frontend interfaces. Focused on software architecture and modular design.
 </p>
 
 ---
